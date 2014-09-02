@@ -381,7 +381,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="nelo360/packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
-  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
+  <project path="packages/apps/LockClock" name="nelo360/android_packages_apps_LockClock" remote="github" revision="ose" />
   <project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="kk4.4" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
