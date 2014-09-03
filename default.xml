@@ -380,7 +380,6 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
@@ -493,7 +492,8 @@
   <project path="packages/apps/InCallUI" name="nelo360/packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <project path="packages/apps/LockClock" name="nelo360/android_packages_apps_LockClock" remote="github" revision="ose" />
   <project path="packages/apps/PerformanceControl" name="nelo360/android_packages_apps_PerformanceControl" remote="github" revision="kk-4.4" />
-    <project path="packages/apps/ScreenRecorder" name="nelo360/android_packages_apps_ScreenRecorder" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/PhoneCommon" name="nelo360/android_packages_apps_PhoneCommon" remote="github" revision="cm-11.0" />
+  <project path="packages/apps/ScreenRecorder" name="nelo360/android_packages_apps_ScreenRecorder" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Settings" name="nelo360/packages_apps_Settings" remote="github" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="nelo360/packages_apps_Torch" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="nelo360/packages_services_Telephony" remote="github" revision="kk4.4" />
