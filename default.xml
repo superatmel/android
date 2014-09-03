@@ -494,7 +494,7 @@
   <project path="packages/apps/LockClock" name="nelo360/android_packages_apps_LockClock" remote="github" revision="ose" />
   <project path="packages/apps/PerformanceControl" name="nelo360/android_packages_apps_PerformanceControl" remote="github" revision="kk-4.4" />
     <project path="packages/apps/ScreenRecorder" name="nelo360/android_packages_apps_ScreenRecorder" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Settings" name="nelo360/packages_apps_Settings" remote="github" revision="kk4.4" />
+  <project path="packages/apps/Settings" name="nelo360/packages_apps_Settings" remote="github" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="nelo360/packages_apps_Torch" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="nelo360/packages_services_Telephony" remote="github" revision="kk4.4" />
   <project path="vendor/cm" name="nelo360/android_vendor_cm" remote="github" revision="cm-11.0" />
