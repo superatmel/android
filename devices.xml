@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Only include here the device repository definitions
+     Other dependencies should be defined in the cm.dependencies file
+-->
+<project path="device/sony/sirius" name="superatmel/android_device_sony_sirius" remote="github" revision="cm-11.0" />
+</manifest>
