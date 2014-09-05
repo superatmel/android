@@ -473,7 +473,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   
-    <!-- Nelo Projects -->
+    <!-- OSR Projects -->
   <project path="frameworks/base" name="nelo360/frameworks_base" remote="github" revision="cm-11.0" />
   <project path="frameworks/native" name="nelo360/frameworks_native" remote="github" revision="cm-11.0" />
   <project path="frameworks/opt/telephony" name="nelo360/frameworks_opt_telephony" remote="github" revision="cm-11.0" />
@@ -486,7 +486,7 @@
   <project path="packages/apps/Settings" name="nelo360/packages_apps_Settings" remote="github" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="nelo360/packages_apps_Torch" remote="github" revision="kk4.4" />
   <project path="packages/services/Telephony" name="nelo360/packages_services_Telephony" remote="github" revision="kk4.4" />
-  <project path="vendor/cm" name="nelo360/android_vendor_cm" remote="github" revision="cm-11.0" />
+  <project path="vendor/osr" name="superatmel/android_vendor_osr" remote="github" revision="cm-11.0" />
   
       <!-- Slim Projects -->
   <project path="hardware/qcom/camera" name="SlimRoms/hardware_qcom_camera" remote="github" revision="kk4.4" /> 
