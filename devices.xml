@@ -5,6 +5,7 @@
 -->
 <project path="device/sony/sirius" name="OSR-Devices/android_device_sony_sirius" remote="github" revision="cm-11.0" />
 <project path="device/samsung/jflte" name="OSR-Devices/android_device_samsung_jflte" remote="github" revision="cm-11.0" />
+<project path="device/samsung/klte" name="OSR-Devices/android_device_samsung_klte" remote="github" revision="cm-11.0" />
 <project path="device/lge/d802" name="OSR-Devices/android_device_lge_d802" remote="github" revision="cm-11.0" />
 <project path="device/oneplus/bacon" name="OSR-Devices/android_device_oneplus_bacon" remote="github" revision="cm-11.0" />
 </manifest>
